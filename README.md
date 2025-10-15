@@ -13,8 +13,6 @@
 - 🤝 Soft skills: **Teamwork, Adaptability, and Time Management**  
 - 🎯 Currently learning: **Advanced Data Analytics & Data Science(AI tools and ML algorithms)**  
 
--
-
 ## 🛠️ Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
